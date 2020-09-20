@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. This is the first item on my list
+2. this is my second item
+
+:heart:
+
+:smile:
