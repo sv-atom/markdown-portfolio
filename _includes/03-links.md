@@ -1,1 +1,2 @@
-Link to GitHub or social media profile.
+[!Link to GitHub or social media profile](https://github.com)
+
